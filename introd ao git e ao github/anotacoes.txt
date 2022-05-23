@@ -1,2 +1,12 @@
 Link para download do git: https://git-scm.com/download/win
 O Git Bash é um terminal extendido para otimizar o uso do git.
+
+Git é um software de controle de vesrão (VCS)
+GITHUB é uma plataforma/rede social para programadores
+
+Gitclone é uma função dentro do GitHub para copiar o projeto.
+Para copiar em seu pc você vai até a pasta onde deseja copiar, clica com o botão direito e vai até a função "GIT Bash Here",
+e abrirá o Git Bash para você. Você digita no Git Bash "git clone" e usa o atalho SHIFT+INSERT para colar o link.
+Para saber se deu certo, digite o comando "git status", e aparecerá o que tem dentro da pasta selecionada.
+Se você você adicionar pastas, terá que comitar. Digite "git add .", depois "git commit -m"+descrição que fica fácil de
+entender, e para subir para o GitHub "git push origin main "
